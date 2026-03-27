@@ -7,3 +7,11 @@ for (let i = 1; i <= 20; i++) {
     console.log(i + " is a Odd Number.");
   }
 }
+
+i++ // increament
+i-- // decreament
+for (let i = 1; i <= 20; i++) {
+  
+}
+
+// for (){}
